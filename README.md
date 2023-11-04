@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raouf Braham</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Raouf-Braham/Raouf-Braham/main/github-banner.png"></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Raouf-Braham/Raouf-Braham/main/raouf-banner.png"></div>
 <h3 align="center">A passionate Software Engineering Student from Tunisia, I study in Corporate IT Sector and in my free time I'm freelancing at https://www.upwork.com/freelancers/~018c08207b1bee1ec6</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
