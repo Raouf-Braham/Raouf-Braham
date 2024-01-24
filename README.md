@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raouf Braham</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raouf+BRAHAM!;" />
+</h1>
+
 <div align="center"> <img src="https://raw.githubusercontent.com/Raouf-Braham/Raouf-Braham/main/raouf-banner.png"></div>
 <h3 align="center">A passionate Software Engineering Student from Tunisia, I study in Corporate IT Sector and in my free time I'm freelancing at https://www.upwork.com/freelancers/~018c08207b1bee1ec6</h3>
 <img align="right" alt="Coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
