@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ReactJS & NodeJS**
 
-- 📫 How to reach me **raouf.brahem@eniso.u-sousse.tn**
+- 📫 How to reach me <a href="mailto:raouf.brahem@eniso.u-sousse.tn">**raouf.brahem@eniso.u-sousse.tn**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
