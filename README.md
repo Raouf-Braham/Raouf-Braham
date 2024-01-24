@@ -34,6 +34,16 @@
 <br/>
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raouf-braham&show_icons=true&locale=en&layout=compact" alt="raouf-braham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raouf-braham&show_icons=true&locale=en" alt="raouf-braham" /></p>
