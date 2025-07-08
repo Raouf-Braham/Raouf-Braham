@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/raouf-braham-67b365251/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raouf-braham" height="30" width="30" ></a>
-<a href="https://app.hackthebox.com/profile/2114292" target="_blank"><img align="center" src="https://pyyplbot.com/uploads/kak_oplatit/376.svg?v3" alt="#2114292" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/raouf-braham-67b365251/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raouf-braham" height="40" width="auto" ></a>
+<a href="https://app.hackthebox.com/profile/2114292" target="_blank"><img align="center" src="https://pyyplbot.com/uploads/kak_oplatit/376.svg?v3" alt="#2114292" height="40" width="auto"></a>
 </p>
 
 <br/>
