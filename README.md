@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raouf-braham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raouf-braham" height="40" width="auto" ></a>
 <a href="https://app.hackthebox.com/profile/2114292" target="_blank"><img align="center" src="https://pyyplbot.com/uploads/kak_oplatit/376.svg?v3" alt="#2114292" height="45" width="auto"></a>
+<a href="https://crowdcruit.com/user/raouf-braham" target="_blank"><img align="center" src="https://crowdcruit.com/_ipx/s_300x100/src/media/logos/logo-crowdcruit.svg" alt="crowdcruit" height="45" width="auto"></a>
 </p>
 
 <br/>
